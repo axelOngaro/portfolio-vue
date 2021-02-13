@@ -1,15 +1,15 @@
 <template>
-  <div class="homepage">
+  <div class="Header">
     <h1>Hello there</h1>
   </div>
 </template>
 <script>
 export default {
-  name: 'HomePage',
+  name: 'Header',
 };
 </script>
 <style scoped>
-.homepage {
+.Header {
   background-color: lightgray;
   height: 100vh;
 }

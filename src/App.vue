@@ -1,13 +1,13 @@
 <template>
-  <HomePage />
+  <Home />
 </template>
 
 <script>
-import HomePage from './components/HomePage';
+import Home from './Pages/Home';
 export default {
   name: 'App',
   components: {
-    HomePage,
+    Home,
   },
 };
 </script>
