@@ -5,6 +5,7 @@
     <Technologies />
     <MyWork />
     <ContactMe />
+    <Menu />
   </div>
 </template>
 <script>
@@ -13,6 +14,7 @@ import MyWork from "../components/MyWork";
 import Presentation from "../components/Presentation";
 import Technologies from "../components/Technologies.vue";
 import ContactMe from "../components/ContactMe";
+import Menu from "./Menu";
 export default {
   name: "Home",
   data() {
@@ -28,6 +30,7 @@ export default {
     Technologies,
     MyWork,
     ContactMe,
+    Menu,
   },
   methods: {
     colorSwitch() {
