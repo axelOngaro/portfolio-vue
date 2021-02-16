@@ -3,9 +3,9 @@
 </template>
 
 <script>
-import Home from './Pages/Home';
+import Home from "./Pages/Home";
 export default {
-  name: 'App',
+  name: "App",
   components: {
     Home,
   },
@@ -17,6 +17,9 @@ export default {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+li {
+  list-style: none;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
