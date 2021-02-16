@@ -1,16 +1,16 @@
 <template>
   <div class="presentation">
     <p class="me">
-      Hi! I’m Axel, I live in Toulouse, France, and I’m a web developer &
-      designer. I take your projects from the first thoughts to the final
-      deployment. My focus is set on User experience, putting an emphasis on
-      simple and clean interface, with maintanable and scallable code
+      HI! I’M AXEL, I LIVE IN TOULOUSE, FRANCE, AND I’M A WEB DEVELOPER &
+      DESIGNER. I TAKE YOUR PROJECTS FROM THE FIRST THOUGHTS TO THE FINAL
+      DEPLOYMENT. MY FOCUS IS SET ON USER EXPERIENCE, PUTTING AN EMPHASIS ON
+      SIMPLE AND CLEAN INTERFACE, WITH MAINTANABLE AND SCALLABLE CODE
     </p>
     <p class="me2">
-      I’m from the generation of people who grew up with internet. We’ve seen
-      it’s evolutions, and we are aware of how powerfull it is, and how much the
-      society relies on it today. Having a presence online is now a must for any
-      buisness. And I’m here to make this happen.
+      I’M FROM THE GENERATION OF PEOPLE WHO GREW UP WITH INTERNET. WE’VE SEEN
+      IT’S EVOLUTIONS, AND WE ARE AWARE OF HOW POWERFULL IT IS, AND HOW MUCH THE
+      SOCIETY RELIES ON IT TODAY. HAVING A PRESENCE ONLINE IS NOW A MUST FOR ANY
+      BUISNESS. AND I’M HERE TO MAKE THIS HAPPEN.
     </p>
   </div>
 </template>
