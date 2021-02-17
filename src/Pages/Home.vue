@@ -1,20 +1,20 @@
 <template>
   <div :class="currentStyle">
     <Header @onClick="colorSwitch" />
+    <LandingPage />
     <Presentation />
     <Technologies />
     <MyWork />
     <ContactMe />
-    <Menu />
   </div>
 </template>
 <script>
-import Header from "../components/Header";
+import LandingPage from "../components/LandingPage";
 import MyWork from "../components/MyWork";
 import Presentation from "../components/Presentation";
 import Technologies from "../components/Technologies.vue";
 import ContactMe from "../components/ContactMe";
-import Menu from "./Menu";
+import Header from "../components/Header.vue";
 export default {
   name: "Home",
   data() {
@@ -25,12 +25,12 @@ export default {
     };
   },
   components: {
-    Header,
+    LandingPage,
     Presentation,
     Technologies,
     MyWork,
     ContactMe,
-    Menu,
+    Header,
   },
   methods: {
     colorSwitch() {

@@ -3,15 +3,15 @@
     <h2>MY WORK</h2>
     <div class="mywork_text">
       <p>
-        THIS WEBSITE HAS BEEN ENTIRELY CREATED BY ME FROM SCRATCH, FROM THE
-        FIRST LINE SKETCHED, TO THE FINAL DEPLOYMENT.
+        this website has been entirely created by me from scratch, from the
+        first line sketched, to the final deployment.
       </p>
-      <p>IT’S THERE TO REPRESENT MY VISION OF HOW THE WEB SHOULD LOOK TODAY:</p>
-      <p>SIMPLE, STRAIGHT-FORWARD AND FAST</p>
+      <p>it’s there to represent my vision of how the web should look today:</p>
+      <p>simple, straight-forward and fast</p>
       <div>
         <p>
-          I HAVE OTHER SIDE PROJECTS THAT ARE WORK IN PORGRESS, THEY ll COME
-          VERY SOON!!!
+          i have other side projects that are work in porgress, they ll come
+          very soon!!!
         </p>
       </div>
     </div>
@@ -29,10 +29,11 @@ export default {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 50vh;
 }
 .mywork_text {
   margin-top: 50px;
+  width: 1000px;
 }
 .mywork_text p {
   margin-top: 25px;

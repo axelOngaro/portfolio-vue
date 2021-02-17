@@ -1,16 +1,16 @@
 <template>
   <div class="presentation">
     <p class="me">
-      HI! I’M AXEL, I LIVE IN TOULOUSE, FRANCE, AND I’M A WEB DEVELOPER &
-      DESIGNER. I TAKE YOUR PROJECTS FROM THE FIRST THOUGHTS TO THE FINAL
-      DEPLOYMENT. MY FOCUS IS SET ON USER EXPERIENCE, PUTTING AN EMPHASIS ON
-      SIMPLE AND CLEAN INTERFACE, WITH MAINTANABLE AND SCALLABLE CODE
+      hi! i’m axel, i live in toulouse, france, and i’m a web developer &
+      designer. i take your projects from the first thoughts to the final
+      deployment. my focus is set on user experience, putting an emphasis on
+      simple and clean interface, with maintanable and scallable code
     </p>
     <p class="me2">
-      I’M FROM THE GENERATION OF PEOPLE WHO GREW UP WITH INTERNET. WE’VE SEEN
-      IT’S EVOLUTIONS, AND WE ARE AWARE OF HOW POWERFULL IT IS, AND HOW MUCH THE
-      SOCIETY RELIES ON IT TODAY. HAVING A PRESENCE ONLINE IS NOW A MUST FOR ANY
-      BUISNESS. AND I’M HERE TO MAKE THIS HAPPEN.
+      i’m from the generation of people who grew up with internet. we’ve seen
+      it’s evolutions, and we are aware of how powerfull it is, and how much the
+      society relies on it today. having a presence online is now a must for any
+      buisness. and i’m here to make this happen.
     </p>
   </div>
 </template>
@@ -21,17 +21,18 @@ export default {
 </script>
 <style scoped>
 .presentation {
-  height: 100vh;
-
+  height: 40vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
 }
 .me {
-  width: 50%;
+  width: 1000px;
+  padding: 50px 0px;
 }
 .me2 {
-  width: 50%;
+  width: 1000px;
+  padding: 50px 0px;
 }
 </style>

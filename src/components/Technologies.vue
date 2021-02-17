@@ -22,7 +22,7 @@ export default {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 50vh;
 }
 h2 {
   margin-bottom: 50px;

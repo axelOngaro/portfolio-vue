@@ -1,5 +1,5 @@
 <template>
-  <Home />
+  <Home class="Home" />
 </template>
 
 <script>
@@ -22,9 +22,10 @@ li {
   list-style: none;
 }
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Jost", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: black;
+  font-size: 20px;
 }
 </style>
